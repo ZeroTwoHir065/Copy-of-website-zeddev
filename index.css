@@ -440,7 +440,7 @@ body::after {
 
 .hero-content {
     flex: 1;
-    /* занимает всё оставшееся место */
+
 }
 
 .hero-nav {
